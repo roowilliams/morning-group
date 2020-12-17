@@ -15,5 +15,8 @@
   },
   "devDependencies": {
     "lerna": "^3.13.1"
+  },
+  "dependencies": {
+    "sanity-plugin-order-documents": "^0.0.11"
   }
 }
